@@ -1,5 +1,5 @@
 - 👋 Hi there , I’m Yassine
-- 👀 I’m a Computer SCience Engineer.
+- 👀 I’m a Computer Science Engineer.
 
 <!---
 yassine-20/yassine-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
